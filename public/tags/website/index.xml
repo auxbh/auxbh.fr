@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website on auxbh</title>
-    <link>https://auxbh.fr/tags/website/</link>
+    <link>http://localhost:1313/tags/website/</link>
     <description>Recent content in Website on auxbh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>me@auxbh.fr (Arthur)</managingEditor>
     <webMaster>me@auxbh.fr (Arthur)</webMaster>
     
-    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://auxbh.fr/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/website/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Upgraded my website to Hugo!</title>
-      <link>https://auxbh.fr/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <author>me@auxbh.fr (Arthur)</author>
-      <guid>https://auxbh.fr/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://auxbh.fr/posts/first-post/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/first-post/featured.png" />
     </item>
     
   </channel>
