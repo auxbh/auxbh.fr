@@ -86,5 +86,5 @@ git branch -D temp-deploy
 echo "All done! Site synced, processed, committed, built, and deployed."
 ```
 
-Then, a webhook request is from Github to my VPS, making it pull the latest code from the Deploy branch.
+Then, a webhook request is sent from Github to my VPS, making it pull the latest code from the Deploy branch.
 This is made using [webhook](https://github.com/adnanh/webhook), and a tutorial is available [here](https://maximorlov.com/automated-deployments-from-github-with-webhook/).
