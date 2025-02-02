@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on auxbh</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://auxbh.fr/tags/</link>
     <description>Recent content in Tags on auxbh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>me@auxbh.fr (Arthur)</managingEditor>
     <webMaster>me@auxbh.fr (Arthur)</webMaster>
     
-    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://auxbh.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Website</title>
-      <link>http://localhost:1313/tags/website/</link>
+      <link>https://auxbh.fr/tags/website/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <author>me@auxbh.fr (Arthur)</author>
-      <guid>http://localhost:1313/tags/website/</guid>
+      <guid>https://auxbh.fr/tags/website/</guid>
       <description></description>
       
     </item>
